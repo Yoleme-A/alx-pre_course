@@ -1,0 +1,3 @@
+[submodule "0x01-git/alx-pre_course"]
+	path = 0x01-git/alx-pre_course
+	url = https://github.com/Yoleme-A/alx-pre_course.git
